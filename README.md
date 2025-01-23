@@ -11,10 +11,14 @@
   </a>
 </p>
 
-
+- 🔭 I’m currently working on [my portfolio](https://github.com/kanyi9/web-dev-projects)
+- 🌱 I’m currently learning frappe web development framework and Maria db.
+- 👨‍💻 All of my projects are available at [my website](https://kanyipeter.vercel.app/).
+    
+  
 - 👋 Hi, I’m @kanyi9
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning frappe web development framework...
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
