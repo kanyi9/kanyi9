@@ -15,6 +15,7 @@
 - 🌱 I’m currently learning frappe web development framework and Maria db.
 - 👨‍💻 All of my projects are available at [my website](https://kanyipeter.vercel.app/).
 - 💬 Ask me about **React, Python, Flask, SQL**.
+- 📫 How to reach me: **peterkanyi19193@gmail.com**
     
   
 - 👋 Hi, I’m @kanyi9
