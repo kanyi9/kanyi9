@@ -17,6 +17,7 @@
 - 💬 Ask me about **React, Python, Flask, SQL**.
 - 📫 How to reach me: **peterkanyi19193@gmail.com**
 - ⚡ Fun fact: **I love solving problems!**
+- 👨‍💻 During my free time i love playing football and video games.
     
   
 - 👋 Hi, I’m @kanyi9
