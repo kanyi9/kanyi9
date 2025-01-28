@@ -14,6 +14,7 @@
 - 🔭 I’m currently working on [my portfolio](https://github.com/kanyi9/web-dev-projects)
 - 🌱 I’m currently learning frappe web development framework and Maria db.
 - 👨‍💻 All of my projects are available at [my website](https://kanyipeter.vercel.app/).
+- 💬 Ask me about **React, Python, Flask, SQL**.
     
   
 - 👋 Hi, I’m @kanyi9
