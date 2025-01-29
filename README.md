@@ -19,14 +19,11 @@
 - ⚡ Fun fact: **I love solving problems!**
 - 👨‍💻 During my free time i love playing football and video games.
     
-  
-- 👋 Hi, I’m @kanyi9
-- 👀 I’m interested in ...
-
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Connect with Me:
+<p align="left">
+  <a href="https://linkedin.com/in/peter-kanyi/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 
 <!---
 kanyi9/kanyi9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
