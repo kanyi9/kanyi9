@@ -27,6 +27,15 @@
 <a href="https://instagram.com/kanyibethename" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
+
+### GitHub Stats:
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanyi9&show_icons=true&locale=en&layout=compact" alt="amoncheruiyot" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanyi9&show_icons=true&locale=en" alt="amoncheruiyot" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanyi9&" alt="kanyi9" /></p>
 <!---
 kanyi9/kanyi9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
