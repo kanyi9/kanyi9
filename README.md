@@ -35,8 +35,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanyi9&show_icons=true&locale=en" alt="amoncheruiyot" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanyi9&" alt="kanyi9" /></p>
+
 <!---
 kanyi9/kanyi9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at our changes.
 --->
